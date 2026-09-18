@@ -1,5 +1,5 @@
 # Ex. No. : 9 
-Simulation of post processing in addititve manufacturing
+## Simulation of post processing in addititve manufacturing
 
 ## AIM :  
 To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
