@@ -1,4 +1,4 @@
-# Ex. No. : 9 
+# Ex. No. : 6.2 
 ## Simulation of post processing in addititve manufacturing
 
 ## AIM :  
